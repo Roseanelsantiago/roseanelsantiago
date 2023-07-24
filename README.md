@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roseane Lopes Santiago</h1>
 <h3 align="center">A passionate data and specialist BI person on digital business!</h3>
 
-- 🔭 I’m currently working on [Data studio - análise](https://datastudio.google.com/u/0/reporting/844ad710-66e2-46a4-9b77-300c46ecacd3/page/p_7kbsixpvwc)
+- 🔭 I’m currently working on [Data studio - análise](https://datastudio.google.com/u/0/reporting/844ad710-66e2-46a4-9b77-300c46ecacd3/page/p_7kbsixpvwc, others Dataviz like Tableau, SQL in metabase/DB/Query on sheets and easily Python commands on DB.
 
-- 🌱 I’m currently learning **SQL in metabase and Python**
+- 🌱 I’m currently learning **Python RPA ad Data Science/ Machine learning** and some basic Macros on sheets using VBA.
 
-- 👯 I’m looking to collaborate on **SQL queries projects**
+- 👯 I’m looking to collaborate on **Python or any RPA projects**
 
 - 💬 Ask me about **Google Data Studio, Excel or Google sheets, SQL, Power BI**
 
